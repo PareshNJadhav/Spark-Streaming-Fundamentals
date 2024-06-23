@@ -6,9 +6,6 @@ This project demonstrates the use of Apache Spark Streaming for real-time data p
 ## Table of Contents
 - Installation
 - Usage
-- Examples
-- Contributing
-- License
 
 ## Installation
 To get started with this project, follow these steps:
