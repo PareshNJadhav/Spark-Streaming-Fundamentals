@@ -1,4 +1,4 @@
-# Spark Streaming Project
+# Spark Streaming Fundamentals 
 
 ## Overview
 This project demonstrates the use of Apache Spark Streaming for real-time data processing using PySpark. It includes examples of reading data from various sources, processing it using Spark Streaming, and writing the results to different sinks.
